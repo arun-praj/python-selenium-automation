@@ -1,0 +1,4 @@
+# dotfiles
+.env
+.vscode
+.pytest_cache
